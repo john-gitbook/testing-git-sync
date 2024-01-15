@@ -1,4 +1,4 @@
-root: ./docs/
+root: ./
 
 redirects:
   help: /page-2.md
