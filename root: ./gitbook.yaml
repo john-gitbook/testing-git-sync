@@ -1,4 +1,4 @@
 root: ./docs/
 
 redirects:
-  help: /docs/page-2.md
+  help: /page-2.md
