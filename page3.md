@@ -1,6 +1,10 @@
 ---
 description: This page is about surfing
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
