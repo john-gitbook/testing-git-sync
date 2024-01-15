@@ -8,13 +8,13 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # ☺ Page 3
