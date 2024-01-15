@@ -1,5 +1,16 @@
 ---
 description: This page is about surfing
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # ☺ Page 3
