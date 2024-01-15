@@ -1,9 +1,7 @@
 # 🌮 Page 2
 
-## Hello
-
-### 💳 Section 1&#x20;
 
 
+### 💳 Section 1
 
 ### :credit\_card: Section 2
