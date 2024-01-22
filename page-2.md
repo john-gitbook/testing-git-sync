@@ -6,8 +6,8 @@
 [page-1](page-1/)
 {% endcontent-ref %}
 
-### 💳 Section 1&#x20;
+{% file src=".gitbook/assets/CleanShot 2024-01-22 at 13.38.22.mp4" %}
 
 
 
-### :credit\_card: Section 2
+###
