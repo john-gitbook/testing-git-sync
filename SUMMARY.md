@@ -4,6 +4,7 @@
 * [😀 Page 1](page-1/README.md)
   * [sub 1](page-1/sub-1.md)
   * [sub 2](page-1/sub-2.md)
+  * [Copy of sub 2 - but with letters](page-1/copy-of-sub-2-but-with-letters.md)
   * [sub 3](page-1/sub-3.md)
   * [sub 4](page-1/sub-4.md)
   * [sub 5](page-1/sub-page-1.md)
