@@ -1,6 +1,6 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1608178398319-48f814d0750c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxzcGFjZXxlbnwwfHx8fDE3MDcyOTQ1NDh8MA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1610296669228-602fa827fc1f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxzcGFjZXxlbnwwfHx8fDE3MDcyOTQ1NDh8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🎤 Show and Tell
+# 🎤 Presentations and stuff
 
 _Speaker Notes_ Welcome, space enthusiasts and curious minds alike! Today, we embark on a journey beyond our planet, to explore the vast and captivating realm of space. Buckle up, as we delve into the reasons why space is not just a distant void, but a vibrant tapestry woven with mysteries, marvels, and profound implications for our existence.
 
