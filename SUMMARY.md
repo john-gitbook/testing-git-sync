@@ -1,13 +1,13 @@
 # Table of contents
 
-* [🎤 Presentation and all things](main.md)
-* [😀 Page 1](page-1/README.md) 
+* [🎤 Presentation and all things](README.md)
+* [😀 Page 1](page-1/README.md)
 * [🌮 Page 2](page-2.md)
 * [☺ Page 3](page3.md)
 * [😎 Page 4](page3-1.md)
 * [✋ Page 5](page3-2.md)
 * [😷 Page 6](page3-3.md)
-* [🏎 Page 7](page-1/page-car.md)
+* [🏎 Page 7](page-7.md)
 * [🤢 Page 8](page-8.md)
 * [⚠ Page 9](page-9.md)
 * [🔟 Page 10](page-10.md)
