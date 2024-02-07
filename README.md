@@ -1,6 +1,6 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1610296669228-602fa827fc1f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxzcGFjZXxlbnwwfHx8fDE3MDcyOTQ1NDh8MA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1608178398319-48f814d0750c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxzcGFjZXxlbnwwfHx8fDE3MDcyOTQ1NDh8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🎤 Presentations
+# 🎤 Show and Tell
 
 _Speaker Notes_ Welcome, space enthusiasts and curious minds alike! Today, we embark on a journey beyond our planet, to explore the vast and captivating realm of space. Buckle up, as we delve into the reasons why space is not just a distant void, but a vibrant tapestry woven with mysteries, marvels, and profound implications for our existence.
 
@@ -42,4 +42,4 @@ _Speaker Notes_ Just imagine, the light reaching us from the farthest corners of
 
 _Speaker Notes_ Imagine the swirling beauty of a nebula, the vibrant dance of auroras on Jupiter, or the sheer size of a black hole. Space is a treasure trove of diverse phenomena, each with its own story to tell. By studying these objects, we unlock secrets about the universe's origins, its past, and its potential future.
 
-\
+\\
