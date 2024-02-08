@@ -22,7 +22,7 @@ layout:
 
 _Speaker Notes_ Welcome, space enthusiasts and curious minds alike! Today, we embark on a journey beyond our planet, to explore the vast and captivating realm of space. Buckle up, as we delve into the reasons why space is not just a distant void, but a vibrant tapestry woven with mysteries, marvels, and profound implications for our existence. &#x20;
 
-check out page 14 [here](page-14.md)
+check out page 14 [here](broken-reference)
 
 **Slide 2**
 
