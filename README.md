@@ -22,6 +22,8 @@ layout:
 
 _Speaker Notes_ Welcome, space enthusiasts and curious minds alike! Today, we embark on a journey beyond our planet, to explore the vast and captivating realm of space. Buckle up, as we delve into the reasons why space is not just a distant void, but a vibrant tapestry woven with mysteries, marvels, and profound implications for our existence.  [private space](https://app.gitbook.com/s/NrLTiCnjnA6k8fRTftvg/ "mention")
 
+[this link](https://app.gitbook.com/o/q9eWN3871qBoiHfhzmNF/s/NrLTiCnjnA6k8fRTftvg/)
+
 **Slide 2**
 
 **Title: A Universe of Immeasurable Scale**
