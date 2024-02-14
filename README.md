@@ -18,13 +18,9 @@ layout:
     visible: true
 ---
 
-# 🎤 Presentation
+# 🎤 Presentation and all things
 
-_Speaker Notes_ Welcome, space enthusiasts and curious minds alike! Today, we embark on a journey beyond our planet, to explore the vast and captivating realm of space. Buckle up, as we delve into the reasons why space is not just a distant void, but a vibrant tapestry woven with mysteries, marvels, and profound implications for our existence. &#x20;
 
-check out page 14 [here](broken-reference)
-
-**Slide 2**
 
 **Title: A Universe of Immeasurable Scale**
 
@@ -34,7 +30,7 @@ check out page 14 [here](broken-reference)
 
 _Speaker Notes_ Just imagine, the light reaching us from the farthest corners of the universe began its journey billions of years ago. Every celestial object we see tonight holds stories from our universe's infancy. The vastness of space instills a sense of awe and compels us to ponder our place in this intricate cosmic dance.
 
-**Slide 3**
+### **Slide 3**
 
 **Title: A Celestial Showcase of Diversity**
 
@@ -44,4 +40,26 @@ _Speaker Notes_ Just imagine, the light reaching us from the farthest corners of
 
 _Speaker Notes_ Imagine the swirling beauty of a nebula, the vibrant dance of auroras on Jupiter, or the sheer size of a black hole. Space is a treasure trove of diverse phenomena, each with its own story to tell. By studying these objects, we unlock secrets about the universe's origins, its past, and its potential future.
 
-\\
+
+
+### **Slide 4**
+
+**Title: A Celestial Showcase of Diversity**
+
+* From fiery stars and swirling nebulae to gas giants with rings and icy moons, space boasts a mind-boggling variety of objects.
+* Each celestial body possesses unique characteristics, showcasing the universe's creativity and dynamism.
+* Studying these diverse objects unveils the intricate processes that govern the cosmos and deepens our understanding of the universe's evolution.
+
+_Speaker Notes_ Imagine the swirling beauty of a nebula, the vibrant dance of auroras on Jupiter, or the sheer size of a black hole. Space is a treasure trove of diverse phenomena, each with its own story to tell. By studying these objects, we unlock secrets about the universe's origins, its past, and its potential future.
+
+
+
+### **Slide 5**
+
+**Title: A Celestial Showcase of Diversity**
+
+* From fiery stars and swirling nebulae to gas giants with rings and icy moons, space boasts a mind-boggling variety of objects.
+* Each celestial body possesses unique characteristics, showcasing the universe's creativity and dynamism.
+* Studying these diverse objects unveils the intricate processes that govern the cosmos and deepens our understanding of the universe's evolution.
+
+_Speaker Notes_ Imagine the swirling beauty of a nebula, the vibrant dance of auroras on Jupiter, or the sheer size of a black hole. Space is a treasure trove of diverse phenomena, each with its own story to tell. By studying these objects, we unlock secrets about the universe's origins, its past, and its potential future.
