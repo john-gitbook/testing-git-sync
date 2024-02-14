@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎤 Presentation and all things](README.md)
+* [🎤 Presentation](README.md)
 * [😀 Page 1](page-1/README.md)
   * [🏎 Page 7](page-1/car.md)
 * [🌮 Page 2](page-2.md)
@@ -14,7 +14,6 @@
 * [👾 Page 11](page-11.md)
 * [🫀 Page 12](page-12.md)
 * [🦤 Page 13](page-13.md)
-* [🦾 Page 14](page-14.md)
 * [📀 emoji](https://www.youtube.com)
 * [😶 Link](https://www.facebook.com)
 * [Page 15](page-15.md)
