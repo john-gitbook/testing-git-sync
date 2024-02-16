@@ -18,11 +18,9 @@ layout:
     visible: true
 ---
 
-# 🎤 Presentation and all things
+# 🎤 Presentation
 
-
-
-**Title: A Universe of Immeasurable Scale**
+## **Title: A Universe of Immeasurable Scale**
 
 * The universe is unimaginably vast, estimated to be 93 billion light-years across.
 * Our Milky Way galaxy alone contains hundreds of billions of stars, each potentially harboring planetary systems.
@@ -40,8 +38,6 @@ _Speaker Notes_ Just imagine, the light reaching us from the farthest corners of
 
 _Speaker Notes_ Imagine the swirling beauty of a nebula, the vibrant dance of auroras on Jupiter, or the sheer size of a black hole. Space is a treasure trove of diverse phenomena, each with its own story to tell. By studying these objects, we unlock secrets about the universe's origins, its past, and its potential future.
 
-
-
 ### **Slide 4**
 
 **Title: A Celestial Showcase of Diversity**
@@ -51,8 +47,6 @@ _Speaker Notes_ Imagine the swirling beauty of a nebula, the vibrant dance of au
 * Studying these diverse objects unveils the intricate processes that govern the cosmos and deepens our understanding of the universe's evolution.
 
 _Speaker Notes_ Imagine the swirling beauty of a nebula, the vibrant dance of auroras on Jupiter, or the sheer size of a black hole. Space is a treasure trove of diverse phenomena, each with its own story to tell. By studying these objects, we unlock secrets about the universe's origins, its past, and its potential future.
-
-
 
 ### **Slide 5**
 
