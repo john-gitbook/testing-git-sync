@@ -8,7 +8,7 @@ layout:
     visible: true
     size: full
   title:
-    visible: true
+    visible: false
   description:
     visible: true
   tableOfContents:
@@ -21,7 +21,7 @@ layout:
 
 # 🎤 Presentation
 
-## **Title: A Universe of Immeasurable Scales**
+## **Title: A Universe of Immeasurable Scale**
 
 * The universe is unimaginably vast, estimated to be 93 billion light-years across.
 * Our Milky Way galaxy alone contains hundreds of billions of stars, each potentially harboring planetary systems.
