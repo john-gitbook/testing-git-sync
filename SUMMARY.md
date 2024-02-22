@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎤 Presentation](README.md)
+* [🎤 Main Page](README.md)
 * [😀 Page 1](page-1/README.md)
   * [🏎 Page 7](page-1/car.md)
 * [🌮 Page 2](page-2.md)
