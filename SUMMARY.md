@@ -4,7 +4,7 @@
 * [😀 Page 1](page-1/README.md)
   * [🏎 Page 7](page-1/car.md)
 * [🌮 Page 2](page-2.md)
-* [☺ Page 3](page3.md)
+* [☺ Architecture](page3.md)
 * [😎 Page 4](page3-1.md)
 * [✋ Page 5](page3-2.md)
 * [😷 Page 6](page3-3.md)
