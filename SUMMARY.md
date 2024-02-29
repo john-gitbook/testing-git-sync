@@ -4,6 +4,7 @@
 * [😀 Page 1](page-1/README.md)
   * [🏎️ Page 7](page-1/car.md)
 * [🌮 Page 2](page-2.md)
+* [3️⃣ Page 3](page-3.md)
 * [☺️ Architecture](arch.md)
 * [😎 Page 4](page3-1.md)
 * [✋ Page 5](page3-2.md)
@@ -17,3 +18,4 @@
 * [📀 emoji](https://www.youtube.com)
 * [😶 Link](https://www.facebook.com)
 * [Page 15](page-15.md)
+* [Page 14](page-14.md)
