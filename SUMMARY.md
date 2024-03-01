@@ -17,3 +17,4 @@
 * [📀 emoji](https://www.youtube.com)
 * [😶 Link](https://www.facebook.com)
 * [Page 15](page-15.md)
+* [Page 18](help.html)
