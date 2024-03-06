@@ -21,6 +21,22 @@ layout:
 
 # 🎤 THIS PAGE
 
+##
+
+##
+
+{% swagger src=".gitbook/assets/openapi (1).yaml" path="/pet" method="put" %}
+[openapi (1).yaml](<.gitbook/assets/openapi (1).yaml>)
+{% endswagger %}
+
+##
+
+##
+
+##
+
+##
+
 ## **Title: A Universe of Immeasurable Scale**
 
 * The universe is unimaginably vast, estimated to be 93 billion light-years across.
