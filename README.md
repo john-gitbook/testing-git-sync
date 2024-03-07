@@ -23,6 +23,4 @@ layout:
 
 ## [**link**](https://docs.google.com/document/d/1HJnC-nvnDKWCmoPhux\_byLhvPBRfBGzBKXIx3uHORrw/edit?usp=sharing)
 
-{% embed url="https://docs.google.com/document/d/1HJnC-nvnDKWCmoPhux_byLhvPBRfBGzBKXIx3uHORrw/edit?usp=sharing" %}
-
 ##
