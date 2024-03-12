@@ -23,4 +23,4 @@ layout:
 
 ## [**link**](https://docs.google.com/document/d/1HJnC-nvnDKWCmoPhux\_byLhvPBRfBGzBKXIx3uHORrw/edit?usp=sharing)
 
-<table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>hi</td><td></td><td>hello world how is it going over there. Are you well</td></tr><tr><td>I am also here lads. Say hi</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>hi</td><td></td><td>hello world how is it going over there. Are you well</td></tr><tr><td>I am also here lads. Say hi</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
