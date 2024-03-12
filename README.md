@@ -19,9 +19,9 @@ layout:
     visible: true
 ---
 
-# 🎤 THIS PAGE Is A Page so it is
+# 🎤 THIS PAGE
 
-##
+## hi
 
 ##
 
@@ -45,17 +45,9 @@ layout:
 
 _Speaker Notes_ Just imagine, the light reaching us from the farthest corners of the universe began its journey billions of years ago. Every celestial object we see tonight holds stories from our universe's infancy. The vastness of space instills a sense of awe and compels us to ponder our place in this intricate cosmic dance.
 
-
-
 [https://www.figma.com/file/9Hq6fxkQWUSpZkdgnBnSpz/html.to.design-(Community)?type=design\&node-id=0-1\&mode=design\&t=kHd1y0MG9ohZPOer-0](https://www.figma.com/file/9Hq6fxkQWUSpZkdgnBnSpz/html.to.design-\(Community\)?type=design\&node-id=0-1\&mode=design\&t=kHd1y0MG9ohZPOer-0)
 
-
-
 {% embed url="https://www.surveymonkey.com/templates/customer-satisfaction-survey-template/" %}
-
-
-
-
 
 {% embed url="https://www.figma.com/login" %}
 
