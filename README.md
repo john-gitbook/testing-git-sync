@@ -25,4 +25,11 @@ layout:
 
 ## <img src=".gitbook/assets/image (7).png" alt="" data-size="original"> <a href="#https-app.snowflake.com-marketplace-listing-gztsz290bux66-cybersyn-inc-financials-economics-enterpri" id="https-app.snowflake.com-marketplace-listing-gztsz290bux66-cybersyn-inc-financials-economics-enterpri"></a>
 
-[https://app.snowflake.com/marketplace/listing/GZTSZ290BUX66/cybersyn-inc-financials-economics-enterprise](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX66/cybersyn-inc-financials-economics-enterprise)
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
