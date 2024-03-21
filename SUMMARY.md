@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎤 Hello World](README.md)
+* [🎤 THIS PAGE](README.md)
 * [😀 Page 1](page-1/README.md)
   * [🏎️ Page 7](page-1/car.md)
 * [🌮 Page 2](page-2.md)
@@ -18,4 +18,3 @@
 * [📀 emoji](https://www.youtube.com)
 * [😶 Link](https://www.facebook.com)
 * [Page 15](page-15.md)
-* [Page 14](page-14.md)
