@@ -1,8 +1,6 @@
 # Table of contents
 
 * [🎤 Hello World](README.md)
-* [😀 Page 1](page-1/README.md)
-  * [🏎️ Page 7](page-1/car.md)
 * [🌮 Page 2](page-2.md)
 * [3️⃣ Page 3](page-3.md)
 * [☺️ Architecture](arch.md)
