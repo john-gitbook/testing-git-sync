@@ -1,3 +1,7 @@
+---
+description: this is page 2
+---
+
 # Page 2
 
 {% swagger src=".gitbook/assets/swagger_03_19_24 (1).json" path="/config/api/signup" method="post" %}
