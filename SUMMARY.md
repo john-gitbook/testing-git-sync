@@ -1,6 +1,5 @@
 # Table of contents
 
-* [🎤 THIS PAGE](README.md)
-* [😀 Page 1](page-1/README.md)
-* [new page](new.md)
+* [Cork City FC](README.md)
 * [Page 2](page-2.md)
+* [Page 3](page-3.md)

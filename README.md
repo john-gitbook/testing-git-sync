@@ -1,82 +1,9 @@
----
-description: This is where you add a description
-cover: >-
-  https://images.unsplash.com/photo-1610296669228-602fa827fc1f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxzcGFjZXxlbnwwfHx8fDE3MDcyOTQ1NDh8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# Cork City FC
 
-# 🎤 THIS PAGE
+Cork City Football Club (Irish: Cumann Peile Chathair Chorcaí) is an Irish association football club based in Cork. The club was founded and elected to the League of Ireland in 1984.
 
-## hi
+It was one of the first clubs in Ireland (and the first in Cork) to field a team of professional footballers. With the progression of professionalism at the club, continued development of the Turners Cross stadium and the transition to summer football, the club became one of the biggest and best supported clubs in the country.\[4]\[5] In a survey published in 2020, the club was the highest supported League of Ireland (LOI) club.\[6]
 
-##
+Cork City won its third LOI Premier Division title, and first FAI Cup double, during the 2017 season. While the club were 2022 LOI First Division champions and were promoted to the top tier for the 2023 League of Ireland Premier Division season, after a play-off defeat they dropped back to the LOI First Division for the 2024 season.
 
-{% swagger src=".gitbook/assets/openapi (1).yaml" path="/pet" method="put" %}
-[openapi (1).yaml](<.gitbook/assets/openapi (1).yaml>)
-{% endswagger %}
-
-##
-
-##
-
-##
-
-##
-
-## **Title: A Universe of Immeasurable Scale**
-
-* The universe is unimaginably vast, estimated to be 93 billion light-years across.
-* Our Milky Way galaxy alone contains hundreds of billions of stars, each potentially harboring planetary systems.
-* This sheer scale ignites our sense of wonder and underscores our place as a small but significant part of a grand cosmic narrative.
-
-_Speaker Notes_ Just imagine, the light reaching us from the farthest corners of the universe began its journey billions of years ago. Every celestial object we see tonight holds stories from our universe's infancy. The vastness of space instills a sense of awe and compels us to ponder our place in this intricate cosmic dance.
-
-[https://www.figma.com/file/9Hq6fxkQWUSpZkdgnBnSpz/html.to.design-(Community)?type=design\&node-id=0-1\&mode=design\&t=kHd1y0MG9ohZPOer-0](https://www.figma.com/file/9Hq6fxkQWUSpZkdgnBnSpz/html.to.design-\(Community\)?type=design\&node-id=0-1\&mode=design\&t=kHd1y0MG9ohZPOer-0)
-
-{% embed url="https://www.surveymonkey.com/templates/customer-satisfaction-survey-template/" %}
-
-{% embed url="https://www.figma.com/login" %}
-
-### **Slide 3**
-
-**Title: A Celestial Showcase of Diversity**
-
-* From fiery stars and swirling nebulae to gas giants with rings and icy moons, space boasts a mind-boggling variety of objects.
-* Each celestial body possesses unique characteristics, showcasing the universe's creativity and dynamism.
-* Studying these diverse objects unveils the intricate processes that govern the cosmos and deepens our understanding of the universe's evolution.
-
-_Speaker Notes_ Imagine the swirling beauty of a nebula, the vibrant dance of auroras on Jupiter, or the sheer size of a black hole. Space is a treasure trove of diverse phenomena, each with its own story to tell. By studying these objects, we unlock secrets about the universe's origins, its past, and its potential future.
-
-### **Slide 4**
-
-**Title: A Celestial Showcase of Diversity**
-
-* From fiery stars and swirling nebulae to gas giants with rings and icy moons, space boasts a mind-boggling variety of objects.
-* Each celestial body possesses unique characteristics, showcasing the universe's creativity and dynamism.
-* Studying these diverse objects unveils the intricate processes that govern the cosmos and deepens our understanding of the universe's evolution.
-
-_Speaker Notes_ Imagine the swirling beauty of a nebula, the vibrant dance of auroras on Jupiter, or the sheer size of a black hole. Space is a treasure trove of diverse phenomena, each with its own story to tell. By studying these objects, we unlock secrets about the universe's origins, its past, and its potential future.
-
-### **Slide 5**
-
-**Title: A Celestial Showcase of Diversity**
-
-* From fiery stars and swirling nebulae to gas giants with rings and icy moons, space boasts a mind-boggling variety of objects.
-* Each celestial body possesses unique characteristics, showcasing the universe's creativity and dynamism.
-* Studying these diverse objects unveils the intricate processes that govern the cosmos and deepens our understanding of the universe's evolution.
-
-_Speaker Notes_ Imagine the swirling beauty of a nebula, the vibrant dance of auroras on Jupiter, or the sheer size of a black hole. Space is a treasure trove of diverse phenomena, each with its own story to tell. By studying these objects, we unlock secrets about the universe's origins, its past, and its potential future.
+The club's traditional colours are green and white with red trim, and the crest is a variant of the Cork coat of arms. City's home games are played at Turners Cross.
